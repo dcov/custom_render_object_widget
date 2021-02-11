@@ -1,0 +1,17 @@
+name: custom_render_object_widget
+description: A Widget that simplifies making custom RenderObjectWidgets.
+version: 0.0.1
+author: Diego Covarrubias <dcov@pm.me>
+homepage: https://github.com/dcov/custom_render_object_widget
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
